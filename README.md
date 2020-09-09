@@ -1,5 +1,6 @@
 # MMM-MQTTExt
-Extension of MMM-MQTT with some enhancements.
+
+Extension of [MMM-MQTT](https://github.com/ottopaulsen/MMM-MQTT) with some enhancements. Used for [MagicMirror](https://github.com/MichMich/MagicMirror/).
 
 New attributes introduced:
 - jsonkey1
